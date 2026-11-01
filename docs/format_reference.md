@@ -1,0 +1,1 @@
+The figure-oriented structure follows the author’s existing Huang_2026_SOX9 and Huang_20260109_Cell_Epithelization repositories. Figure-specific folders, canonical scripts, source tables, environment and validation records are retained as the navigation pattern.

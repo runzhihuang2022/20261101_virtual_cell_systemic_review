@@ -1,0 +1,10 @@
+﻿Application,Model and perturbation,Predicted endpoint,Empirical comparison,Conclusion
+"Human diabetic foot; 85,928 cells from 33 samples [180]",CellOracle; ETS1/FOSL2/NR3C1,Healing-associated state shifts,Comparison of simulated state shifts with observed healing-associated trajectories,Prioritises compartment-specific regulators
+Diabetic wound macrophages [181],CellOracle; TF KO and OE,Branch transition and cluster occupancy,Selected predictions compared with prior experiments,Retrospective biological support
+Muscle regeneration [90],scTenifoldKnk; Chodl removal,Network/ECM-related effects,Muscle and satellite-cell conditional knockout,Regeneration phenotype linked to model hypothesis
+Haematopoietic ageing [210],Geneformer; Pbx1 perturbation,Age-associated regulatory changes,Perturbation and transplantation,Interpret lineage balance and total output separately
+Irradiated progenitors [213],Network perturbation; protective regulators,Injury-associated state response,Hsf1-related experiments and colony assays,Supports regulator testing after irradiation
+Myocardial I/R [327],scTenifoldKnk; S100A8,Regulatory-network displacement,Cell and animal treatment experiments,Matched intervention is needed for response-accuracy scoring
+Retina and kidney [89],scTenifoldKnk; SLC22A5/CPT2,Cell-context-dependent network effects,Tissue metabolomics and expression context,Exploratory cross-tissue prediction
+Lineage reprogramming [158],CellOracle; regulatory candidates,Cell-fate transitions,Selected-regulator conversion assays,Experimental test of candidate regulatory control
+Valve myofibroblasts [160],Hybrid network; patient sera and drug,Context-conditioned expression,Cultures with and without bosentan,Cellular drug-response validation

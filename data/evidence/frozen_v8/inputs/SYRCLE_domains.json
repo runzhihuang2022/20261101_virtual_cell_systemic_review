@@ -1,0 +1,542 @@
+[
+  {
+    "record_id": "R1535",
+    "domain": "Sequence generation",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Baseline characteristics",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Allocation concealment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Random housing",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Blinding of caregivers",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Random outcome assessment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Blinding of outcome assessors",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Incomplete outcome data",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Selective outcome reporting",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R1535",
+    "domain": "Other bias",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946838/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Sequence generation",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Baseline characteristics",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Allocation concealment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Random housing",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Blinding of caregivers",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Random outcome assessment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Blinding of outcome assessors",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Incomplete outcome data",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Selective outcome reporting",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R2397",
+    "domain": "Other bias",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13138043/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Sequence generation",
+    "judgment": "High",
+    "rationale": "Methods explicitly report randomization was not applied.",
+    "source_locator": "body_p_48",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Baseline characteristics",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Allocation concealment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Random housing",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Blinding of caregivers",
+    "judgment": "High",
+    "rationale": "Methods explicitly report blinding was not applied.",
+    "source_locator": "body_p_48",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Random outcome assessment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Blinding of outcome assessors",
+    "judgment": "High",
+    "rationale": "Methods explicitly report blinding was not applied.",
+    "source_locator": "body_p_48",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Incomplete outcome data",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Selective outcome reporting",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3722",
+    "domain": "Other bias",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496190/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Sequence generation",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Baseline characteristics",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Allocation concealment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Random housing",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Blinding of caregivers",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Random outcome assessment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Blinding of outcome assessors",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Incomplete outcome data",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Selective outcome reporting",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3847",
+    "domain": "Other bias",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116119/",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Sequence generation",
+    "judgment": "Low",
+    "rationale": "Computer-generated random allocation reported.",
+    "source_locator": "body_p_47",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Baseline characteristics",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Allocation concealment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Random housing",
+    "judgment": "Unclear",
+    "rationale": "Cage position was not systematically controlled; random housing is not established.",
+    "source_locator": "body_p_47",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Blinding of caregivers",
+    "judgment": "High",
+    "rationale": "Surgeons and drug-administration staff knew group assignment.",
+    "source_locator": "body_p_47",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Random outcome assessment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Blinding of outcome assessors",
+    "judgment": "Low",
+    "rationale": "Outcome assessors were blinded to group allocation.",
+    "source_locator": "body_p_47",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Incomplete outcome data",
+    "judgment": "Unclear",
+    "rationale": "Deaths and failed injury induction were excluded; group-specific numbers and their impact need verification.",
+    "source_locator": "body_p_47",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Selective outcome reporting",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R3848",
+    "domain": "Other bias",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13027327/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Sequence generation",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Baseline characteristics",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Allocation concealment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Random housing",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Blinding of caregivers",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Random outcome assessment",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Blinding of outcome assessors",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Incomplete outcome data",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Selective outcome reporting",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  },
+  {
+    "record_id": "R4032",
+    "domain": "Other bias",
+    "judgment": "Unclear",
+    "rationale": "The inspected methods do not establish this domain; assess complete methods and supplements.",
+    "source_locator": "targeted methods",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12905640/fullTextXML",
+    "status": "AI provisional; human verification pending"
+  }
+]

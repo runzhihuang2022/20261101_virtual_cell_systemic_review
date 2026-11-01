@@ -1,0 +1,354 @@
+﻿v8_number,v9_number,doi,pmid,title
+1,1,10.1016/j.cell.2024.11.015,39672099,How to build the virtual cell with artificial intelligence: Priorities and opportunities.
+2,2,10.1038/nature07039,18480812,Wound repair and regeneration.
+3,3,10.1038/nm.2807,22772564,Mechanisms of fibrosis: therapeutic translation for fibrotic disease.
+4,4,10.1016/j.cell.2012.05.044,22817898,A whole-cell computational model predicts phenotype from genotype.
+5,5,10.1146/annurev-cellbio-100617-062542,31299173,Whole-Cell Models and Simulations in Molecular Detail.
+6,6,10.1016/j.cell.2026.08.042,42753692,A world model of the virtual cell.
+7,7,10.1038/s41592-024-02201-0,38409223,scGPT: toward building a foundation model for single-cell multi-omics using generative AI.
+8,8,10.1016/j.cell.2026.07.052,42673963,Predicting cellular responses to perturbation across diverse contexts with State.
+9,9,10.1038/s41592-025-02814-z,41168487,Nicheformer: a foundation model for single-cell and spatial omics.
+10,10,10.1016/j.cell.2026.08.035,42753697,Tahoe-100M: Mapping drug-induced molecular phenotypes at single-cell resolution.
+11,11,10.1371/journal.pcbi.1005991,29474446,PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems.
+12,12,10.1016/j.stem.2024.11.013,39729995,Spatiotemporal single-cell roadmap of human skin wound healing.
+13,13,10.1126/science.aaa2151,25883361,Skin fibrosis. Identification and isolation of a dermal lineage with intrinsic fibrogenic potential.
+14,14,10.1038/nature12783,24336287,Distinct fibroblast lineages determine dermal architecture in skin development and repair.
+15,15,10.1038/ncb3532,28504705,Wounding induces dedifferentiation of epidermal Gata6+ cells and acquisition of stem cell properties.
+16,16,10.1038/s41586-021-03549-5,33981032,Cross-tissue organization of the fibroblast lineage.
+17,17,10.1038/s41467-020-17740-1,32769974,Single-cell analysis uncovers fibroblast heterogeneity and criteria for fibroblast and mural cell identification and discrimination.
+18,18,10.1186/s13643-020-01542-z,33499930,PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.
+19,19,10.1038/s41592-019-0494-8,31363220,scGen predicts single-cell perturbation responses.
+20,20,10.1038/s41586-022-05688-9,36755098,Dissecting cell identity via network inference and in silico gene perturbation.
+21,21,10.1038/s41587-023-01905-6,37592036,Predicting transcriptional outcomes of novel multigene perturbations with GEARS.
+22,22,10.1038/s41592-021-01205-4,34316068,DOME: recommendations for supervised machine learning validation in biology.
+23,23,10.1186/1471-2288-14-43,24667063,SYRCLE's risk of bias tool for animal studies.
+24,24,10.1136/bmj-2024-082505,40127903,"PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods."
+25,25,,,Cochrane Handbook for Systematic Reviews of Interventions. Chapter 14: Completing Summary of findings tables and grading the certainty of the evidence
+26,26,10.1136/bmj.n71,33782057,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews.
+27,27,10.1038/s41586-023-06139-9,37258680,Transfer learning enables predictions in network biology.
+28,28,,,CellPLM: Pre-training of Cell Language Model Beyond Single Cells
+29,29,10.64898/2026.06.18.733163,,CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction
+30,30,10.1038/s41586-024-08391-z,39779852,A foundation model of transcription across human cell types.
+31,31,10.1038/s41586-025-10014-0,41606153,Advancing regulatory variant effect prediction with AlphaGenome.
+32,32,10.1038/s41467-025-58699-1,40240364,scPRINT: pre-training on 50 million cells allows robust gene network predictions.
+33,33,10.1038/s41551-025-01528-z,41193888,A pre-trained large generative model for translating single-cell transcriptomes to proteomes.
+34,34,10.1038/s41467-024-55707-8,39779675,Predicting cell morphological responses to perturbations using generative modeling.
+35,35,10.1038/s41467-026-69856-5,41851134,Celcomen: spatial causal disentanglement for single-cell and tissue perturbation modeling.
+36,36,10.1101/2025.11.24.685470,,PULSAR: a Foundation Model for Multi-scale and Multicellular Biology
+37,37,10.1038/s41592-018-0229-2,30504886,Deep generative modeling for single-cell transcriptomics.
+38,38,10.1016/j.cell.2021.04.048,34062119,Integrated analysis of multimodal single-cell data.
+39,39,10.1038/s41592-020-01050-x,33589839,Joint probabilistic modeling of single-cell multi-omic data with totalVI.
+40,40,10.1038/s41587-021-01001-7,34462589,Mapping single-cell data to reference atlases by transfer learning.
+41,41,10.1038/s41592-021-01336-8,34949812,Benchmarking atlas-level data integration in single-cell genomics.
+42,42,10.1038/s41556-022-01072-x,36732632,Biologically informed deep learning to query gene programs in single-cell atlases.
+43,43,10.1093/bioinformatics/btad387,37326971,Biologically informed variational autoencoders allow predictive modeling of genetic and drug-induced perturbations.
+44,44,10.1093/bib/bbae314,38960404,Comprehensive single-cell RNA-seq analysis using deep interpretable generative modeling guided by biological hierarchy knowledge.
+,45,10.1038/s41592-024-02305-7,38844628,Large-scale foundation model on single-cell transcriptomics.
+,46,10.1038/s41586-026-10689-z,42420460,Universal cell embedding provides a foundation model for cell biology.
+45,47,10.1093/nsr/nwaf255,41040483,Cell-GraphCompass: modeling single cells with graph structure foundation model.
+46,48,10.1038/s41467-025-59926-5,40393991,CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells.
+47,49,10.1186/s13059-025-03862-6,41286991,scKGBERT: a knowledge-enhanced foundation model for single-cell transcriptomics.
+48,50,10.1038/s41467-026-70071-5,41839876,Illuminating cell states by a comprehensive and interpretable single cell foundation model.
+49,51,10.1038/s41467-026-72198-x,42086551,RegFormer: a single-cell foundation model powered by gene regulatory hierarchies.
+50,52,10.1038/s41467-026-69102-y,41639087,scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics.
+51,53,10.1186/s13059-025-03574-x,40251685,Zero-shot evaluation reveals limitations of single-cell foundation models.
+52,54,10.1002/advs.202514490,41869863,Evaluating the Utilities of Foundation Models in Single-Cell Data Analysis.
+53,55,10.1093/nargab/lqag095,42626084,A systematic assessment of single-cell language model configurations.
+54,56,10.1371/journal.pcbi.1013701,42531328,Assessing scale and predictive diversity in models for single-cell transcriptomics based on Geneformer.
+55,57,10.1016/j.patter.2025.101326,40843339,BioLLM: A standardized framework for integrating and benchmarking single-cell foundation models.
+56,58,10.1186/s12864-026-12975-6,42249309,Evaluating the learnability of single-cell large language models on multiple tasks.
+57,59,10.1038/s41592-025-02808-x,41083897,Deep generative modeling of sample-level heterogeneity in single-cell genomics.
+58,60,10.1038/s41467-023-39494-2,37433791,Multi-batch single-cell comparative atlas construction by deep learning disentanglement.
+59,61,10.1038/s41467-024-45227-w,38291052,scDisInFact: disentangled learning for integration and prediction of multi-batch multi-condition single-cell RNA-sequencing data.
+60,62,10.1016/j.xgen.2025.101073,41330382,CellUntangler: Separating distinct biological signals in single-cell data with deep generative models.
+61,63,10.1093/bioinformatics/btag372,42334940,CycleVI: isolating cell cycle variation with an interpretable deep generative model.
+62,64,10.1186/s13059-024-03338-z,39075536,"scCross: a deep generative model for unifying single-cell multi-omics with seamless integration, cross-modal generation, and in silico exploration."
+63,65,10.1038/s41467-026-71744-x,41980989,A multi-modal diffusion model with dual-cross-attention for multi-omics data generation and translation.
+64,66,10.1016/j.crmeth.2025.101222,41218606,"Simultaneous capture of single cell RNA-seq, ATAC-seq, and CRISPR perturbation enables multiomic screens to identify gene regulatory relationships."
+65,67,10.15252/msb.202110798,35226415,Ultra-high sensitivity mass spectrometry quantifies single-cell proteome changes upon perturbation.
+66,68,10.1038/s41592-023-01938-4,37443338,SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks.
+67,69,10.1002/advs.202505021,40832731,SCRIPT: Predicting Single-Cell Long-Range Cis-Regulation Based on Pretrained Graph Attention Networks.
+68,70,10.1038/s41467-025-62252-5,40753156,Epiregulon: Single-cell transcription factor activity inference to predict drug response and drivers of cell states.
+69,71,10.1093/bib/bbaf664,41643202,Deciphering hierarchical regulatory network of cell fate via an epigenetics-informed heterogeneous graph transformer on single-cell multi-omics data.
+70,72,10.1002/advs.202508697,41498638,CellPolaris: Transfer Learning for Gene Regulatory Network Construction to Guide Cell State Transitions.
+71,73,10.1186/s12859-026-06538-5,42527907,Residual-stream geometry of single-cell foundation models carries incremental gene-regulatory signal across tissues.
+72,74,10.1186/s12864-026-12965-8,42482180,Systematic evaluation of single-cell foundation model interpretability: attention-derived edge scores add no incremental value over gene-level features for perturbation-target prediction.
+73,75,10.1093/bioinformatics/btag379,42296381,"Causal circuit tracing reveals distinct computational architectures in single-cell foundation models: inhibitory dominance, biological coherence, and cross-model convergence."
+74,76,10.1371/journal.pone.0344826,42467671,What topological and geometric structure do biological foundation models learn? Evidence from 141 hypotheses.
+75,77,10.1038/s41467-026-77627-5,42850251,Interpretable machine learning enables de novo mapping of cell type-specific RNA splicing regulation from scRNA-seq data.
+76,78,10.1101/gr.276542.121,35705328,Dynamic regulatory module networks for inference of cell type-specific transcriptional networks.
+77,79,10.1242/dev.202997,39289870,EnhancerNet: a predictive model of cell identity dynamics through enhancer selection.
+78,80,10.1038/s41467-024-48516-6,38744843,GRouNdGAN: GRN-guided simulation of single-cell RNA-seq data using causal generative adversarial networks.
+79,81,10.1093/bioinformatics/btz949,31873725,Causal network perturbations for instance-specific analysis of single cell and disease samples.
+80,82,10.1073/pnas.2525268122,41452988,Predicting the unseen: A diffusion-based debiasing framework for transcriptional response prediction at single-cell resolution.
+81,83,10.1038/s41467-024-53457-1,39462106,Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery.
+82,84,10.1038/s41592-025-02877-y,41184550,Squidiff: predicting cellular development and responses to perturbations using a diffusion model.
+83,85,10.64898/2026.10.02.756297,,"PIE: Generalizing perturbation effects across unseen perturbations, contexts and datasets"
+84,86,10.1016/j.patter.2022.100434,35510185,scTenifoldKnk: An efficient virtual knockout tool for gene function predictions via single-cell gene regulatory network perturbation.
+85,87,10.1093/nar/gkad450,37246643,Gene knockout inference with variational graph autoencoder learning single-cell gene regulatory networks.
+86,88,10.1126/science.aax4438,31395745,Exploring genetic interaction manifolds constructed from rich single-cell phenotypes.
+87,89,10.1167/iovs.67.11.31,42747258,Integrated Multi-Tissue Omics Identifies Acylcarnitine Accumulation as Shared Metabolic Marker of Diabetic Microangiopathy With Cross-Organ Validation.
+88,90,10.1016/j.isci.2026.115703,42088368,Chondrolectin regulates the sublaminar localization and regenerative function of muscle satellite cells in mice.
+89,91,10.1111/exd.13909,30801791,A multiscale hybrid mathematical model of epidermal-dermal interactions during skin wound healing.
+90,92,10.3389/fnetp.2024.1396383,38840902,Elucidating the interaction between stretch and stiffness using an agent-based spring network model of progressive pulmonary fibrosis.
+91,93,10.1016/j.isci.2020.101047,32339988,Sequential Wnt Agonist Then Antagonist Treatment Accelerates Tissue Repair and Minimizes Fibrosis.
+92,94,10.1016/j.yjmcc.2016.03.008,27017945,A computational model of cardiac fibroblast signaling predicts context-dependent drivers of myofibroblast differentiation.
+93,95,10.1073/pnas.0909374107,20484673,Prediction and validation of cell alignment along microvessels as order principle to restore tissue architecture in liver regeneration.
+94,96,10.1016/j.actbio.2022.09.040,36155097,Hybrid discrete-continuum multiscale model of tissue growth and remodeling.
+95,97,10.1016/j.cell.2025.06.048,40713951,Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories.
+96,98,10.15252/msb.202211517,37154091,Predicting cellular responses to complex perturbations in high-throughput screens.
+97,99,10.1038/s41592-023-01969-x,37770709,Learning single-cell perturbation responses using neural optimal transport.
+98,100,10.1038/s44320-025-00131-3,40640612,PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations.
+99,101,10.1016/j.patter.2023.100817,37602218,Generative modeling of single-cell gene expression for dose-dependent chemical perturbations.
+100,102,10.1016/j.jare.2024.10.035,39486785,scPerb: Predict single-cell perturbation via style transfer-based variational autoencoder.
+101,103,10.1093/bib/bbaf126,40178283,CoupleVAE: coupled variational autoencoders for predicting perturbational single-cell RNA sequencing data.
+102,104,10.3390/bioengineering10090996,37760098,Homogeneous Space Construction and Projection for Single-Cell Expression Prediction Based on Deep Learning.
+103,105,10.1093/bioinformatics/btaf253,40662778,Fast and scalable Wasserstein-1 neural optimal transport solver for single-cell perturbation prediction.
+104,106,10.1093/bioinformatics/btae265,38625746,scPRAM accurately predicts single-cell gene expression perturbation response based on attention mechanism.
+105,107,10.3390/bioengineering12080884,40868397,scOTM: A Deep Learning Framework for Predicting Single-Cell Perturbation Responses with Large Language Models.
+106,108,10.1002/advs.77461,42667121,Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.
+107,109,10.1093/bioinformatics/btag727,42804716,scLDM: a conditional diffusion framework for single-cell perturbation prediction.
+108,110,10.1186/s13059-025-03519-4,40119479,scVAEDer: integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis.
+109,111,10.1093/bioinformatics/btag682,42745547,scBalFlow: a staged flow matching framework for imbalanced single-cell drug perturbation prediction.
+110,112,10.1093/nargab/lqag087,42577751,CFM-GP: unified conditional flow matching to learn gene perturbation across cell types.
+111,113,10.1093/bioinformatics/btag482,42378442,Enhancing cross-context generalization in drug perturbation prediction with a multimodal conditional diffusion framework.
+112,114,10.1093/bioinformatics/btag747,42865067,Dynamic graph prior-guided latent adaptation for generalizable single-cell perturbation response prediction.
+113,115,10.1093/bib/bbae617,39584702,BioDSNN: a dual-stream neural network with hybrid biological knowledge integration for multi-gene perturbation response prediction.
+114,116,10.1093/bioinformatics/btag307,42412811,PertAdapt: unlocking single-cell foundation models for genetic perturbation prediction via condition-sensitive adaptation.
+115,117,10.1038/s43588-025-00912-8,41350457,Scouter predicts transcriptional responses to genetic perturbations with large language model embeddings.
+116,118,10.1021/acssynbio.4c00473,39375864,CRISPR-GEM: A Novel Machine Learning Model for CRISPR Genetic Target Discovery and Evaluation.
+117,119,10.1038/s41598-024-62620-z,38782963,The manatee variational autoencoder model for predicting gene expression alterations caused by transcription factor perturbations.
+118,120,10.1016/j.crmeth.2024.100773,38744288,A gray box framework that optimizes a white box logical model using a black box optimizer for simulating cellular responses to perturbations.
+119,121,10.1038/s41540-025-00569-z,41006334,Data-driven inference of Boolean networks from transcriptomes to predict cellular differentiation and reprogramming.
+120,122,10.3390/biology15010062,41514902,LazyNet: Interpretable ODE Modeling of Sparse CRISPR Single-Cell Screens Reveals New Biological Insights.
+121,123,10.1371/journal.pcbi.1014838,42837408,"CardamomOT: A mechanistic optimal transport-based framework for gene regulatory network inference, trajectory reconstruction and generative modeling."
+122,124,10.1371/journal.pcbi.1014067,41984780,Unveiling gene perturbation effects through gene regulatory networks inference from single-cell transcriptomic data.
+123,125,10.1371/journal.pcbi.1007491,31923173,Dynamic distribution decomposition for single-cell snapshot time series identifies subpopulations and trajectories during iPSC reprogramming.
+124,126,10.1126/sciadv.abq3745,36449617,DeepVelo: Single-cell transcriptomic deep velocity field learning with neural ordinary differential equations.
+125,127,10.1038/s41587-022-01476-y,36229609,Multi-omic single-cell velocity models epigenome-transcriptome interactions and improves cell fate prediction.
+126,128,10.1038/s41592-025-02608-3,40032996,Cell2fate infers RNA velocity modules to improve cell fate prediction.
+127,129,10.1093/bioinformatics/btae393,39230694,scNODE : generative model for temporal single cell transcriptomic data prediction.
+128,130,10.1126/sciadv.aeb4205,42715336,Learning stochastic dynamics and cell-fate landscapes from single-cell snapshots via optimal transport.
+129,131,10.1038/s44320-026-00220-x,42249125,Multiscale learning of gene network-driven phenotypic dynamics of single cells.
+130,132,10.1371/journal.pcbi.1009155,35041651,A deep generative model of 3D single-cell organization.
+131,133,10.1371/journal.pcbi.1012312,39102394,Diffusion model predicts the geometry of actin cytoskeleton from cell morphology.
+132,134,10.1038/s41592-025-02960-4,41420046,Cell context-dependent in silico organelle localization in label-free microscopy images.
+133,135,10.1093/bioinformatics/btae395,39230697,Learning meaningful representation of single-neuron morphology via large-scale pre-training.
+134,136,10.1371/journal.pcbi.1012547,39527652,Capturing cell heterogeneity in representations of cell populations for image-based profiling using contrastive learning.
+135,137,10.1038/s41467-025-67479-w,41392045,PhenoProfiler: advancing phenotypic learning for image-based drug discovery.
+136,138,10.1371/journal.pcbi.1009888,35213530,Predicting drug polypharmacology from cell morphology readouts using variational autoencoder latent space arithmetic.
+137,139,10.1016/j.crmeth.2026.101459,42167225,A generative framework for predicting cellular morphological and transcriptomic perturbation responses.
+138,140,10.1093/bioinformatics/btag662,42704667,DECANT: decoupling mechanism from context in single-cell drug perturbation representation.
+139,141,10.1371/journal.pcbi.1014054,41811907,MultiPert: An adversarial alignment and dual attention framework for single-cell multi-omics perturbation prediction.
+140,142,10.3390/biology15141097,42510645,Counterfactual Diffusion Modeling Enables Spatially Targeted Reprogramming of Tissue Microenvironments.
+141,143,10.1016/j.cell.2019.01.006,30712874,Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming.
+142,144,10.1038/s41467-021-23518-w,34050150,Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions.
+143,145,10.1038/s41592-025-02980-0,41381899,Benchmarking algorithms for generalizable single-cell perturbation response prediction.
+144,146,10.1038/s41587-025-02777-8,40854979,Systema: a framework for evaluating genetic perturbation response prediction beyond systematic variation.
+145,147,10.1038/s41592-025-02772-6,40759747,Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines.
+146,148,10.1038/s41587-026-03307-w,42823510,Deep learning perturbation models can outperform baselines on calibrated metrics.
+147,149,10.1186/s12864-025-11600-2,40269681,Benchmarking foundation cell models for post-perturbation RNA-seq prediction.
+148,150,10.1126/sciadv.aed3414,42715312,A systematic comparison of single-cell perturbation response prediction models.
+149,151,10.1186/s13059-026-04104-z,42121287,scArchon: a scalable benchmarking framework for assessing single-cell perturbation models.
+150,152,10.3390/genes17070816,42510856,A Neural-Network-Free Calibration Matches or Beats Deep Single-Cell Perturbation Response Models Across Four Datasets.
+151,153,10.1093/bib/bbaf426,40889115,AUPRC: a metric for evaluating the performance of in-silico perturbation methods in identifying differentially expressed genes.
+152,154,10.1371/journal.pgen.1011420,40106407,Mouse-Geneformer: A deep learning model for mouse single-cell transcriptome and its cross-species utility.
+153,155,10.1093/bib/bbag513,42752548,Benchmarking methods for inferring single-cell transcription factor activity using large-scale perturbation sequencing data.
+154,156,10.1093/bioadv/vbac016,36699385,decoupleR: ensemble of computational methods to infer biological activities from omics data.
+155,157,10.1093/nar/gkag897,42741841,A transcription factor regulatory atlas for activity inference and perturbation prediction.
+156,158,10.1016/j.stemcr.2022.11.010,36584685,Gene regulatory network reconfiguration in direct lineage reprogramming.
+157,159,10.1038/s41467-025-67104-w,41366246,Chemical reprogramming of fibroblasts into retinal pigment epithelium cells for vision restoration.
+158,160,10.1073/pnas.2117323119,35181609,Network modeling predicts personalized gene expression and drug responses in valve myofibroblasts cultured with patient sera.
+159,161,10.2142/biophysico.bppb-v22.0022,41189733,Finding differentially expressed genes between cell fates predicted by image-based deep learning.
+160,162,10.3389/fimmu.2026.1926870,42723953,Single-cell Raman profiling of B cell differentiation and leukemic transformation with transcriptome inference.
+161,163,10.1186/s13059-022-02749-0,36064614,Integrating temporal single-cell gene expression modalities for trajectory inference and disease prediction.
+162,164,10.3389/fgene.2026.1838613,42333095,LAIOR: a hyperbolic neural ODE variational framework for interpretable single-cell manifold learning and trajectory inference.
+163,165,10.1038/s42003-026-09768-8,41775921,iAODE for benchmarking and continuum modeling of single-cell chromatin accessibility.
+164,166,10.1016/j.jtbi.2025.112365,41565154,Simple cellular potts model of scratch assays on healthy and keloid fibroblasts driven by contact inhibition of locomotion.
+165,167,10.1126/science.aar2971,30467144,Myofibroblast proliferation and heterogeneity are supported by macrophages during skin repair.
+166,168,10.1038/s41596-020-0292-x,32103204,CellPhoneDB: inferring cell-cell communication from combined expression of multi-subunit ligand-receptor complexes.
+167,169,10.1038/s41467-021-21246-9,33597522,Inference and analysis of cell-cell communication using CellChat.
+168,170,10.1038/s41592-019-0667-5,31819264,NicheNet: modeling intercellular communication by linking ligands to target genes.
+169,171,10.1101/gr.278001.123,37827697,"ESICCC as a systematic computational framework for evaluation, selection, and integration of cell-cell communication inference methods."
+170,172,10.1038/s41598-025-20812-1,41125721,GraphComm predicts cell cell communication using a graph based deep learning method in single cell RNA sequencing data.
+171,173,10.1038/s42003-025-09413-w,41501529,Advancing spatial cellular communication inference with ligand diffusion and transport model.
+172,174,10.1038/s41592-023-02040-5,37919419,Causal identification of single-cell experimental perturbation effects with CINEMA-OT.
+173,175,10.1038/s41467-024-53666-8,39487129,HiDDEN: a machine learning method for detection of disease-relevant populations in case-control single-cell transcriptomics data.
+174,176,10.1126/sciadv.aba1972,32832598,Single-cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis.
+175,177,10.1038/s41586-020-2941-1,33176333,Decoding myofibroblast origins in human kidney fibrosis.
+176,178,10.1038/s41586-019-1631-3,31597160,Resolving the fibrotic niche of human liver cirrhosis at single-cell level.
+177,179,10.1016/j.cell.2019.06.029,31348891,Intra- and Inter-cellular Rewiring of the Human Colon during Ulcerative Colitis.
+178,180,10.1177/21621918251376348,41027406,Identification of Skin Multicellular Reprogramming Factors as Potential Treatment for Nonhealing Diabetic Foot Ulcers.
+179,181,10.64898/2026.04.21.719960,42079057,Transcriptional regulators predicted to drive macrophage dysregulation during impaired wound healing in diabetic mice.
+180,182,10.1016/j.cell.2020.03.029,32259488,Genetic Screen for Cell Fitness in High or Low Oxygen Highlights Mitochondrial and Lipid Metabolism.
+181,183,10.1016/j.redox.2017.02.012,28259101,Mitochondrial composition and function under the control of hypoxia.
+182,184,10.1038/s41586-026-11001-9,42717098,An operational perturbation proteomics-based virtual cell model.
+183,185,10.1016/j.jconrel.2021.01.034,33508351,Oxygen-release microspheres capable of releasing oxygen in response to environmental oxygen level to improve stem cell survival and tissue regeneration in ischemic hindlimbs.
+184,186,10.1016/j.redox.2022.102368,35749842,Mitochondrial metabolism and bioenergetic function in an anoxic isolated adult mouse cardiomyocyte model of in vivo cardiac ischemia-reperfusion injury.
+185,187,10.1093/cvr/cvag031,41603375,Mitochondrial succinate transport is required for cardiac ischaemia/reperfusion injury.
+186,188,10.1161/circresaha.123.323517,37818671,MRP1-Dependent Extracellular Release of Glutathione Induces Cardiomyocyte Ferroptosis After Ischemia-Reperfusion.
+187,189,10.1016/j.redox.2025.103814,40789258,Inhibition of eIF5A hypusination enhances antioxidant defense to prevent kidney Ischemia/Reperfusion injury.
+188,190,10.1186/s12964-020-0529-x,32164721,"Knocking-out the Siah2 E3 ubiquitin ligase prevents mitochondrial NCX3 degradation, regulates mitochondrial fission and fusion, and restores mitochondrial function in hypoxic neurons."
+189,191,10.1016/j.redox.2022.102545,36427398,Short-term hypoxia triggers ROS and SAFB mediated nuclear matrix and mRNA splicing remodeling.
+190,192,10.1093/nar/gkz805,31552418,Signatures of cell death and proliferation in perturbation transcriptomics data-from confounding factor to effective prediction.
+191,193,10.3390/biology15151230,42589098,Pre-Existing Heterogeneity Predicts Rare Proteostasis-Stress Programs Across Diverse Perturbations.
+192,194,10.1063/5.0188476,38420625,3D convolutional neural networks predict cellular metabolic pathway use from fluorescence lifetime decay data.
+193,195,10.1089/genbio.2022.0001,35586336,Label-Free Imaging to Track Reprogramming of Human Somatic Cells.
+194,196,10.1126/science.aba2374,33888614,Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring.
+195,197,10.1038/s41467-017-01011-7,29018207,Stress-induced plasticity of dynamic collagen networks.
+196,198,10.1016/j.actbio.2023.01.005,36638936,Orientation-dependent indentation reveals the crosslink-mediated deformation mechanisms of collagen fibrils.
+197,199,10.1038/s41467-024-53295-1,39468077,Epigenetic memory of radiotherapy in dermal fibroblasts impairs wound repair capacity in cancer survivors.
+198,200,10.1371/journal.pone.0203389,30372433,Learning time-varying information flow from single-cell epithelial to mesenchymal transition data.
+199,201,10.1126/sciadv.adg7668,37703364,Distribution modeling quantifies collective TH cell decision circuits in chronic inflammation.
+200,202,10.1186/s12859-025-06354-3,41469543,DANSE: a pipeline for dynamic modelling of time-series multi-omics data.
+201,203,10.1016/j.cell.2014.07.020,25126793,CellNet: network biology applied to stem cell engineering.
+202,204,10.1016/j.cell.2014.07.021,25126792,Dissecting engineered cell types and enhancing cell fate conversion via CellNet.
+203,205,10.1098/rsif.2020.0729,33499768,Optimal experimental design for mathematical models of haematopoiesis.
+204,206,10.1093/nargab/lqab100,34761218,Taiji-reprogram: a framework to uncover cell-type specific regulators and predict cellular reprogramming cocktails.
+205,207,10.1016/j.stemcr.2023.12.006,38215756,SinCMat: A single-cell-based method for predicting functional maturation transcription factors.
+206,208,10.15252/embj.2018100003,30482756,A common molecular logic determines embryonic stem cell self-renewal and reprogramming.
+207,209,10.1016/j.patter.2025.101471,42005385,DestinyNet: A deep-learning framework for cell-fate analysis from lineage-tracing single-cell RNA sequencing data.
+208,210,10.1126/sciadv.aeb1346,42627902,Geneformer-guided multiomics integration identifies Pbx1 as a network hub of hematopoietic stem cell aging.
+209,211,10.1371/journal.pcbi.1009907,35213533,IQCELL: A platform for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data.
+210,212,10.1038/s41540-022-00231-y,35725577,NETISCE: a network-based tool for cell fate reprogramming.
+211,213,10.3390/ijms27083522,42074165,In Silico Perturbation Identifies Transcription Factors as Protective Targets in HSPCs After Irradiation.
+212,214,10.1016/j.cell.2006.07.024,16904174,Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors.
+213,215,10.1126/science.1151526,18029452,Induced pluripotent stem cell lines derived from human somatic cells.
+214,216,10.1016/j.cell.2007.11.019,18035408,Induction of pluripotent stem cells from adult human fibroblasts by defined factors.
+215,217,10.1016/j.cell.2012.08.023,22980981,Single-cell expression analyses during cellular reprogramming reveal an early stochastic and a late hierarchic phase.
+216,218,10.1038/nature14274,25830878,Early reprogramming regulators identified by prospective isolation and mass cytometry.
+217,219,10.1126/sciadv.abc3851,33219026,Ancestry-dependent gene expression correlates with reprogramming to pluripotency and multiple dynamic biological processes.
+218,220,10.1073/pnas.2401540121,39150785,Uncovering underlying physical principles and driving forces of cell differentiation and reprogramming from single-cell transcriptomics.
+219,221,10.1093/bib/bbag469,42696754,Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model.
+220,222,10.1016/j.stemcr.2021.03.028,33891873,Automatic identification of small molecules that promote cell conversion and reprogramming.
+221,223,10.1073/pnas.2312942121,38437548,Cell reprogramming design by transfer learning of functional transcriptional networks.
+222,224,10.1038/s42004-026-01991-y,42151623,Simulation-guided chemical direct reprogramming informed by temporal cellular conversion processes at the single-cell level.
+223,225,10.1371/journal.pcbi.1013410,41452902,"V-Cornea: A computational model of corneal epithelium homeostasis, injury, and recovery."
+224,226,10.1016/j.xcrm.2024.101554,38729157,Lhx2 promotes axon regeneration of adult retinal ganglion cells and rescues neurodegeneration in mouse models of glaucoma.
+225,227,10.1038/s41588-025-02343-7,41044248,Dissecting the impact of transcription factor dose on cell reprogramming heterogeneity using scTF-seq.
+226,228,10.1038/s41588-023-01450-7,37488417,Dynamic network-guided CRISPRi screen identifies CTCF-loop-constrained nonlinear enhancer gene regulatory activity during cell state transitions.
+227,229,10.1093/cvr/cvz209,31410448,miR-19a-3p containing exosomes improve function of ischaemic myocardium upon shock wave therapy.
+228,230,10.7150/thno.31711,32724480,Lentivirus-mediated IL-10-expressing Bone Marrow Mesenchymal Stem Cells promote corneal allograft survival via upregulating lncRNA 003946 in a rat model of corneal allograft rejection.
+229,231,10.1371/journal.pcbi.1013188,40522999,RIDDEN: Data-driven inference of receptor activity from transcriptomic data.
+230,232,10.1016/j.biomaterials.2024.123007,39674100,Surface modification of decellularized kidney scaffold with chemokine and AKI-CKD cytokine juice to increase the recellularization efficiency of bio-engineered kidney.
+231,233,10.1186/s12951-024-02455-y,38693585,Advances in the application of extracellular vesicles derived from three-dimensional culture of stem cells.
+232,234,10.1016/j.biomaterials.2017.07.025,28756193,A photoclickable peptide microarray platform for facile and rapid screening of 3-D tissue microenvironments.
+233,235,10.1126/sciadv.adk8232,39093963,Spectrin mediates 3D-specific matrix stress-relaxation response in neural stem cell lineage commitment.
+234,236,10.1002/adhm.201700605,28975716,Programmable Hydrogels for Cell Encapsulation and Neo-Tissue Growth to Enable Personalized Tissue Engineering.
+235,237,10.1016/j.bioactmat.2025.10.029,41356124,ECM stiffness governs endothelial barrier integrity through YAP-mediated stabilization of ZO-1.
+236,238,10.1002/adhm.201701324,29577678,"Integrin Clustering Matters: A Review of Biomaterials Functionalized with Multivalent Integrin-Binding Ligands to Improve Cell Adhesion, Migration, Differentiation, Angiogenesis, and Biomedical Device Integration."
+237,239,10.1039/d0cs00103a,32642749,Biological responses to physicochemical properties of biomaterial surface.
+238,240,10.1002/adma.202310476,38087458,Age-associated Senescent - T Cell Signaling Promotes Type 3 Immunity that Inhibits the Biomaterial Regenerative Response.
+239,241,10.1016/j.actbio.2023.05.007,37150279,Cells resident to precision templated 40-µm pore scaffolds generate small extracellular vesicles that affect CD4+ T cell phenotypes through regulatory TLR4 signaling.
+240,242,10.7554/elife.85478,38063302,"Homeostasis, injury, and recovery dynamics at multiple scales in a self-organizing mouse intestinal crypt."
+241,243,10.1016/j.jhep.2023.01.019,36738840,A human liver organoid screening platform for DILI risk prediction.
+242,244,10.1016/j.bioactmat.2025.12.030,41536916,Artificial Intelligence Virtual Organoids (AIVOs).
+243,245,10.1038/s41467-025-65690-3,41233320,A large-scale human toxicogenomics resource for drug-induced liver injury prediction.
+244,246,10.1038/s41467-026-69596-6,41714622,FATE-MAP predicts teratogenicity and human gastrulation failure modes by integrating deep learning and mechanistic modeling.
+245,247,10.1371/journal.pcbi.1008937,33970905,Agent-based model provides insight into the mechanisms behind failed regeneration following volumetric muscle loss injury.
+246,248,10.1007/s10456-020-09708-y,31997048,Matrix deformations around angiogenic sprouts correlate to sprout dynamics and suggest pulling activity.
+247,249,10.1016/j.actbio.2023.10.025,37879587,A data-driven computational model for engineered cardiac microtissues.
+248,250,10.1002/advs.202309740,39558513,"Matrix Architecture and Mechanics Regulate Myofibril Organization, Costamere Assembly, and Contractility in Engineered Myocardial Microtissues."
+249,251,10.1016/j.mtbio.2022.100252,35509864,Tissue engineered in-vitro vascular patch fabrication using hybrid 3D printing and electrospinning.
+250,252,10.1126/science.aai8792,28059714,Regeneration of fat cells from myofibroblasts during wound healing.
+251,253,10.1016/j.jare.2025.12.003,41371402,Discovery of FBP1 as novel therapeutic target and asiatic acid-hydrogen sulfide donors accelerate diabetic wound healing.
+252,254,10.1038/s41556-025-01755-1,41044372,CellNavi predicts genes directing cellular transitions by learning a gene graph-enhanced cell state manifold.
+253,255,10.1038/s41467-022-34277-7,36310235,Deep transfer learning of cancer drug responses by integrating bulk and single-cell RNA-seq data.
+254,256,10.3390/genes14020268,36833194,scDR: Predicting Drug Response at Single-Cell Resolution.
+255,257,10.1016/j.csbj.2022.11.055,36544472,scDrug: From single-cell RNA-seq to drug response prediction.
+256,258,10.1186/s12916-023-03182-1,38041118,Predicting drug response from single-cell expression profiles of tumours.
+257,259,10.1371/journal.pcbi.1013832,41417875,DAGFormer: A graph-based domain adaptation approach for single-cell cancer drug response prediction.
+258,260,10.1093/bioinformatics/btag726,42809244,CSGDA: a cell state-guided graph domain adaptation network for single-cell drug response prediction.
+259,261,10.1038/s42003-025-09418-5,41507436,scXDR: drug response prediction across single-cell datasets via heterogeneous network transfer learning.
+260,262,10.1093/bioinformatics/btz158,30850846,Dr.VAE: improving drug response prediction via modeling of drug perturbation effects.
+261,263,10.1093/bioinformatics/btae249,38940127,Transfer learning of condition-specific perturbation in gene interactions improves drug response prediction.
+262,264,10.1371/journal.pcbi.1012742,39823522,BuDDI: Bulk Deconvolution with Domain Invariance to predict cell-type-specific perturbations from bulk.
+263,265,10.3390/ijms26094365,40362602,A Transfer Learning Framework for Predicting and Interpreting Drug Responses via Single-Cell RNA-Seq Data.
+264,266,10.1093/bioinformatics/btae261,38940173,CODEX: COunterfactual Deep learning for the in silico EXploration of cancer cell line perturbations.
+,267,10.1016/j.cell.2016.11.038,27984732,Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.
+,268,10.1016/j.cell.2016.11.048,27984733,A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response.
+,269,10.1016/j.cell.2022.05.013,35688146,Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq.
+,270,10.1126/science.aax6234,31806696,Massively multiplex chemical transcriptomics at single-cell resolution.
+265,271,10.15252/msb.20178064,29363560,Large-scale image-based profiling of single-cell phenotypes in arrayed CRISPR-Cas9 gene perturbation screens.
+266,272,10.1016/j.molcel.2023.03.013,37028419,Structural and functional properties of mSWI/SNF chromatin remodeling complexes revealed through single-cell perturbation screens.
+267,273,10.1038/s41573-019-0048-x,31748707,Managing the challenge of drug-induced liver injury: a roadmap for the development and deployment of preclinical predictive models.
+268,274,10.1007/s00204-019-02492-9,31250071,Prediction of human drug-induced liver injury (DILI) in relation to oral doses and blood concentrations.
+269,275,10.1016/j.biomaterials.2024.122627,38823194,Microfluidic human physiomimetic liver model as a screening platform for drug induced liver injury.
+270,276,10.1007/s00204-018-2349-y,30426164,Long-term and mechanistic evaluation of drug-induced liver injury in Upcyte human hepatocytes.
+271,277,10.1007/s00204-025-04089-x,40464974,Comprehensive analysis of high-throughput transcriptomics to distinguish drug-induced liver injury (DILI) phenotypes.
+272,278,10.1093/bioinformatics/btae248,38940153,Predicting single-cell cellular responses to perturbations using cycle consistency learning.
+273,279,10.1038/s41467-025-68188-0,41513654,Hepatokine fibrinogen-like protein 1 drives liver-kidney crosstalk to promote renal fibrosis.
+275,280,10.1186/s13040-021-00263-w,34353329,Personalized single-cell networks: a framework to predict the response of any gene to any drug for any patient.
+274,281,10.1186/s13073-025-01435-7,39920778,Digital twins as global learning health and disease models for preventive and personalized medicine.
+276,282,10.1186/s13040-026-00582-w,42557585,Clifti-GPT: privacy-preserving federated fine-tuning and transferable inference of foundation models on clinical single-cell data.
+277,283,10.1186/s13059-026-03935-0,41618434,Parameter-efficient fine-tuning enables scalable transfer of regulatory sequence models to novel contexts.
+278,284,10.1093/bioinformatics/btag374,42286785,Bayesian hyperparameter optimization improves scGPT fine-tuning for single-cell multi-omics integration.
+279,285,10.3389/ebm.2025.10445,40469770,Optimal transport reveals immune perturbation and fingerprints over time in COVID-19 vaccination.
+280,286,10.1038/s41587-021-01033-z,34594043,Differential abundance testing on single-cell data using k-nearest neighbor graphs.
+281,287,10.3389/fimmu.2025.1603716,41459534,Deep learning-aided inter-species-comparison reveals shared and distinct molecular patterns in cynomolgus monkey and humans following non-specific T cell activation.
+282,288,10.1084/jem.20171934,29511064,Mass cytometry reveals innate lymphoid cell differentiation pathways in the human fetal intestine.
+283,289,10.1038/s43587-023-00453-7,37429951,Cxxc finger protein 1 maintains homeostasis and function of intestinal group 3 innate lymphoid cells with aging.
+284,290,10.1016/j.actbio.2017.02.020,28213094,Aspirin-Triggered Resolvin D1-modified materials promote the accumulation of pro-regenerative immune cell subsets and enhance vascular remodeling.
+285,291,10.1186/s12974-023-02785-y,37138340,Sequential treatment with a TNFR2 agonist and a TNFR1 antagonist improves outcomes in a humanized mouse model for MS.
+286,292,10.1038/s41592-026-03213-8,42711495,Reconstructing signaling histories of single cells via perturbation screens and transfer learning.
+287,293,10.1186/s12951-026-04822-3,42881448,Reprogramming microglia via ShK-modified extracellular vesicles promotes immunomodulation and functional recovery after spinal cord injury.
+288,294,10.1038/s41746-022-00610-z,35595830,Building digital twins of the human immune system: toward a roadmap.
+289,295,10.1038/s41556-023-01130-y,37106062,Stomach-derived human insulin-secreting organoids restore glucose homeostasis.
+290,296,10.1016/j.preteyeres.2025.101356,40239758,Animal models for the evaluation of retinal stem cell therapies.
+291,297,10.1093/burnst/tkag020,42482965,Targeting the Jun-Irf8-CD36 axis attenuates fibrotic scar formation and promotes functional recovery after spinal cord injury.
+292,298,10.1016/j.bpj.2026.10.013,42902564,In silico model of axonal pathfinding during spinal cord regeneration in zebrafish larvae.
+293,299,10.1016/j.bioactmat.2025.08.008,41268338,Sprayable hydrogel sponge for neurovascular microenvironment reconstruction and inflammation modulation in diabetic wound healing.
+294,300,10.1534/g3.118.200401,29848620,Bayesian Networks Predict Neuronal Transdifferentiation.
+295,301,10.1007/s00439-023-02529-1,37004545,Transcriptomic reprogramming for neuronal age reversal.
+296,302,10.1021/acsnano.5c13020,41711373,NanoScript-Enabled Nonviral Transient Repression of Phosphatase and Tensin Homolog for Axonal Regeneration and Central Nervous System Injury Repair.
+297,303,10.1186/s12974-025-03514-3,40849669,Single-cell transcriptomic landscape of sciatic nerve after transection injury.
+298,304,10.3390/brainsci16050463,42192776,CCL2 and PAK6 as Candidate Biomarkers of Neuroinflammation in Parkinson's Disease: An Integrated Machine Learning and Single-Nucleus Transcriptomic Study.
+299,305,10.3389/fnins.2026.1862571,42465723,"Integrated bulk, single-cell, and spatial transcriptomic analyses prioritize NOTCH1 as a candidate gene associated with neurovascular and immune-related alterations in Parkinson's disease."
+300,306,10.1038/s41593-026-02485-9,42901979,Early lineage divergence segregates sensory and motor-associative identities in the thalamus.
+301,307,10.1016/j.stem.2025.01.001,39919748,Neural stem cell quiescence and activation dynamics are regulated by feedback input from their progeny under homeostatic and regenerative conditions.
+302,308,10.1016/j.mtbio.2026.102985,41852885,Age-mimicking hydrogel stiffness recapitulates the mechanical niche of the hippocampus to regulate neural stem cell senescence.
+303,309,10.1002/smll.202311456,38497893,Biomimetic Dual-Network Collagen Fibers with Porous and Mechanical Cues Reconstruct Neural Stem Cell Niche via AKT/YAP Mechanotransduction after Spinal Cord Injury.
+304,310,10.1038/s41467-023-43222-1,38001081,Autophagy drives the conversion of developmental neural stem cells to the adult quiescent state.
+305,311,10.1016/j.cell.2019.01.040,30827680,Quiescence Modulates Stem Cell Maintenance and Regenerative Capacity in the Aging Brain.
+306,312,10.1038/ncomms15922,28656980,Neurovascular EGFL7 regulates adult neurogenesis in the subventricular zone and thereby affects olfactory perception.
+307,313,10.1016/j.neuron.2018.07.010,30057205,Mossy Cells Control Adult Neural Stem Cell Quiescence and Maintenance through a Dynamic Balance between Direct and Indirect Pathways.
+308,314,10.1016/j.neuron.2020.07.039,32877641,Neuropeptides Modulate Local Astrocytes to Regulate Adult Hippocampal Neural Stem Cells.
+309,315,10.1093/bioinformatics/btae525,39177093,FateNet: an integration of dynamical systems and deep learning for cell fate prediction.
+310,316,10.1002/alz.71784,42669622,Extracellular matrix remodeling upregulates hippocampal neurogenic niche stiffness and impairs neurogenesis in Alzheimer's disease.
+311,317,10.1146/annurev-cellbio-100617-062608,31299172,Development and Cell Biology of the Blood-Brain Barrier.
+312,318,10.1111/imr.13121,35909222,Targetability of the neurovascular unit in inflammatory diseases of the central nervous system.
+313,319,10.1007/s00401-022-02452-1,35752654,Profiling the neurovascular unit unveils detrimental effects of osteopontin on the blood-brain barrier in acute ischemic stroke.
+314,320,10.1016/j.addr.2023.114816,37003488,An overview of in vitro 3D models of the blood-brain barrier as a tool to predict the in vivo permeability of nanomedicines.
+315,321,10.1016/j.addr.2026.115881,42055248,Engineering the blood-brain barrier on chip: advances in preclinical drug penetration and disease modeling.
+316,322,10.1186/s13024-018-0249-5,29618365,Apolipoprotein E4 impairs spontaneous blood brain barrier repair following traumatic brain injury.
+317,323,10.1038/s41467-026-68487-0,41545411,Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data.
+318,324,10.1161/circulationaha.119.044557,32972203,Single-Cell RNA Sequencing Analysis Reveals a Crucial Role for CTHRC1 (Collagen Triple Helix Repeat Containing 1) Cardiac Fibroblasts After Myocardial Infarction.
+319,325,10.1161/circulationaha.123.066298,37886839,Versican Promotes Cardiomyocyte Proliferation and Cardiac Repair.
+320,326,10.1126/sciadv.1600844,28138518,Decellularized zebrafish cardiac extracellular matrix induces mammalian heart regeneration.
+321,327,10.3390/ijms27062743,41898604,In Vitro and In Vivo Validation of Endothelium-Derived Potential Therapeutics for Myocardial Ischemia/Reperfusion Injury Identified by an AI-Enhanced Single-Cell and Virtual-Cell Paradigm.
+322,328,10.1126/science.aef0825,42391361,Zonated mechanosensing by PIEZO1 controls liver regeneration.
+323,329,10.1016/j.stem.2019.10.011,31866224,AXIN2+ Pericentral Hepatocytes Have Limited Contributions to Liver Homeostasis and Regeneration.
+324,330,10.1124/pharmrev.123.000955,38697856,Molecular Pathways Governing the Termination of Liver Regeneration.
+325,331,10.3390/ijms27188023,42794453,Explainable Artificial Intelligence and Gene-Network Analysis Prioritise a TREM2/LGALS3/GPNMB Scar-Associated Macrophage Programme in Human Liver Cirrhosis.
+326,332,10.3390/ijms27177936,42737833,Deciphering the Genetic Underpinnings of Liver Cirrhosis-Heart Failure Comorbidity Through Multi-Omics: CRIM1 as a Key Endothelial Mediator.
+327,333,10.1126/scitranslmed.aaw9996,32051230,GLP-1 receptor agonists synergize with DYRK1A inhibitors to potentiate functional human β cell regeneration.
+328,334,10.1038/s41467-024-47972-4,38702347,Acinar to β-like cell conversion through inhibition of focal adhesion kinase.
+329,335,10.1152/physrev.00034.2016,29717931,"(Re)generating Human Beta Cells: Status, Pitfalls, and Perspectives."
+330,336,10.1016/j.cell.2017.01.040,28235195,Fasting-Mimicking Diet Promotes Ngn3-Driven β-Cell Regeneration to Reverse Diabetes.
+331,337,10.21037/jtd-2026-0896,42444906,Integrative single-cell and bulk transcriptomic analyses identify IGFBP2 within a peri-anesthetic stress-related gene framework linked to injury/transitional remodeling of alveolar type II cells in idiopathic pulmonary fibrosis.
+332,338,10.3390/genes17070841,42510881,"Macrophage-Centered Integration of Single-Cell and Bulk Transcriptomic Data Identifies CCL3, CCL4, and JUNB as Inflammatory Regulatory Signatures in Ulcerative Colitis."
+333,339,10.3389/fimmu.2026.1871605,42519321,RNF213 marks a regulatory T-cell subset associated with ulcerative colitis.
+334,340,10.1093/nar/gkag706,42444608,scDifformer: diffusion-based post-training for virtual cell modeling across large-scale single-cell data.
+335,341,10.3390/genes16121439,41465115,What Do Single-Cell Models Already Know About Perturbations?
+336,342,10.1038/s41540-020-00158-2,33159077,Learning to encode cellular responses to systematic perturbations with deep generative models.
+337,343,10.1186/s12864-026-13270-0,42754836,scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.
+338,344,10.3389/fbinf.2024.1340339,38501112,Detecting subtle transcriptomic perturbations induced by lncRNAs knock-down in single-cell CRISPRi screening using a new sparse supervised autoencoder neural network.
+339,345,10.3390/ijms262411977,41465404,Discovering Candidate Anti-Aging Perturbations Using a Foundation Model for Gene Expression.
+340,346,10.1007/s10522-026-10471-8,42509463,Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.
+341,347,10.1371/journal.pone.0344084,41790620,PAH-former: Transfer learning for efficient discovery of pulmonary arterial hypertension-associated genes.
+342,348,10.1093/nargab/lqag116,42840584,Integrating network medicine and foundation models reveals cell-type-specific regulatory alterations in Alzheimer's disease.
+343,349,10.1111/acel.70683,42631664,Network Model to Predict Age-Related Transcriptional Reprogramming.
+344,350,10.1093/bioinformatics/btaf571,41093751,BIWT: a bioinformatics walkthrough for embedding spatial multiomics in agent-based models for virtual cells.
+345,351,10.7150/ijbs.126714,41694598,"<i>Irf7</i> Deficiency Confers Protection Against Influenza Infection, Independent of <i>irf3</i>."
+346,352,10.1371/journal.pone.0356691,42623410,A multimodal analysis suggests partial IRF8/TLR7-associated myeloid transcriptional convergence between diabetic kidney disease and Parkinson's disease.
+347,353,10.3390/ijms27146182,42511525,GutMGene-Guided Peripheral Blood Transcriptomics Identifies an FLNA-Associated Host-Gene Signal in Diabetic Retinopathy.

@@ -1,0 +1,42 @@
+[
+  {
+    "figure": 1,
+    "file": "Figure1/Figure_1.png",
+    "sha256": "08bd801d3baa9b89c4dc77fdcd1f4019530c9f3b7bc2dc4355229ab4ecb78c47",
+    "status": "asset_preserved",
+    "source": "Author-approved manuscript illustration",
+    "image_generation": "OpenAI image generation; archived accepted asset"
+  },
+  {
+    "figure": 2,
+    "file": "Figure2/Figure_2.png",
+    "sha256": "1724965bdcaf7c141b426899df521668bc47e613e6aad2f55de378011e1066d2",
+    "status": "asset_preserved",
+    "source": "Author-approved manuscript illustration",
+    "image_generation": "OpenAI image generation; archived accepted asset"
+  },
+  {
+    "figure": 3,
+    "file": "Figure3/Figure_3.png",
+    "sha256": "3122ff93b81dfcf605b88d1a20463a9d4adbe1ada21d53dfa199f53f52d5c298",
+    "status": "asset_preserved",
+    "source": "Author-approved manuscript illustration",
+    "image_generation": "OpenAI image generation; archived accepted asset"
+  },
+  {
+    "figure": 4,
+    "file": "Figure4/Figure_4.png",
+    "sha256": "aef10394c5e45379ca36a817d63d2d6dafcff9cd41364381df4b3d4cdb1b1e30",
+    "status": "asset_preserved",
+    "source": "Author-approved manuscript illustration",
+    "image_generation": "OpenAI image generation; archived accepted asset"
+  },
+  {
+    "figure": 5,
+    "file": "Figure5/Figure_5.png",
+    "sha256": "aa13d6c3f7cef82828ef0a0dbee05d535e547cff77519d5e614e7851e26b8ba7",
+    "status": "asset_preserved",
+    "source": "Author-approved manuscript illustration",
+    "image_generation": "OpenAI image generation; archived accepted asset"
+  }
+]

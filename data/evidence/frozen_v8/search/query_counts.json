@@ -1,0 +1,43 @@
+[
+  {
+    "query_id": "PM01",
+    "database": "PubMed",
+    "count": 505,
+    "retrieved": 505,
+    "query": "(\"virtual cell\"[Title/Abstract] OR \"virtual cells\"[Title/Abstract] OR \"whole-cell model\"[Title/Abstract] OR \"whole cell model\"[Title/Abstract] OR \"cellular foundation model\"[Title/Abstract] OR \"single-cell foundation model\"[Title/Abstract] OR \"single cell foundation model\"[Title/Abstract] OR \"cell language model\"[Title/Abstract] OR Geneformer[Title/Abstract] OR scGPT[Title/Abstract] OR scFoundation[Title/Abstract] OR scPRINT[Title/Abstract] OR CellPLM[Title/Abstract] OR CellOS[Title/Abstract] OR Squidiff[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2026/10/26\"[Date - Publication])",
+    "translation": "(\"virtual cell\"[Title/Abstract] OR \"virtual cells\"[Title/Abstract] OR \"whole-cell model\"[Title/Abstract] OR \"whole-cell model\"[Title/Abstract] OR \"cellular foundation model\"[Title/Abstract] OR \"single-cell foundation model\"[Title/Abstract] OR \"single-cell foundation model\"[Title/Abstract] OR \"cell language model\"[Title/Abstract] OR \"Geneformer\"[Title/Abstract] OR \"scGPT\"[Title/Abstract] OR \"scFoundation\"[Title/Abstract] OR \"scPRINT\"[Title/Abstract] OR \"CellPLM\"[Title/Abstract] OR \"CellOS\"[Title/Abstract] OR \"Squidiff\"[Title/Abstract]) AND 1900/01/01:2026/10/26[Date - Publication]",
+    "warning": null
+  },
+  {
+    "query_id": "PM02",
+    "database": "PubMed",
+    "count": 2912,
+    "retrieved": 2912,
+    "query": "(\"single-cell\"[Title/Abstract] OR \"single cell\"[Title/Abstract] OR \"cell state\"[Title/Abstract] OR \"cell fate\"[Title/Abstract] OR transcriptomic[Title/Abstract]) AND (predict*[Title/Abstract] OR generative[Title/Abstract] OR \"deep learning\"[Title/Abstract] OR \"machine learning\"[Title/Abstract] OR \"optimal transport\"[Title/Abstract] OR \"neural network\"[Title/Abstract]) AND (perturbation*[Title/Abstract] OR \"drug response\"[Title/Abstract] OR \"genetic perturbation\"[Title/Abstract] OR reprogramming[Title/Abstract] OR \"fate prediction\"[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2026/10/26\"[Date - Publication])",
+    "translation": "(\"single-cell\"[Title/Abstract] OR \"single-cell\"[Title/Abstract] OR \"cell state\"[Title/Abstract] OR \"cell fate\"[Title/Abstract] OR \"transcriptomic\"[Title/Abstract]) AND (\"predict*\"[Title/Abstract] OR \"generative\"[Title/Abstract] OR \"deep learning\"[Title/Abstract] OR \"machine learning\"[Title/Abstract] OR \"optimal transport\"[Title/Abstract] OR \"neural network\"[Title/Abstract]) AND (\"perturbation*\"[Title/Abstract] OR \"drug response\"[Title/Abstract] OR \"genetic perturbation\"[Title/Abstract] OR \"reprogramming\"[Title/Abstract] OR \"fate prediction\"[Title/Abstract]) AND 1900/01/01:2026/10/26[Date - Publication]",
+    "warning": null
+  },
+  {
+    "query_id": "PM03",
+    "database": "PubMed",
+    "count": 1094,
+    "retrieved": 1094,
+    "query": "(\"Wound Healing\"[MeSH Terms] OR \"Regeneration\"[MeSH Terms] OR \"Fibrosis\"[MeSH Terms] OR \"injury repair\"[Title/Abstract] OR \"tissue repair\"[Title/Abstract] OR \"wound healing\"[Title/Abstract] OR fibrosis[Title/Abstract] OR regeneration[Title/Abstract] OR \"regenerative medicine\"[Title/Abstract]) AND (\"single-cell\"[Title/Abstract] OR \"single cell\"[Title/Abstract] OR \"spatial transcriptom*\"[Title/Abstract]) AND (perturbation*[Title/Abstract] OR \"lineage tracing\"[Title/Abstract] OR \"regulatory network\"[Title/Abstract] OR \"cell fate\"[Title/Abstract] OR \"time course\"[Title/Abstract] OR longitudinal[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2026/10/26\"[Date - Publication])",
+    "translation": "(\"Wound Healing\"[MeSH Terms] OR \"Regeneration\"[MeSH Terms] OR \"Fibrosis\"[MeSH Terms] OR \"injury repair\"[Title/Abstract] OR \"tissue repair\"[Title/Abstract] OR \"Wound Healing\"[Title/Abstract] OR \"Fibrosis\"[Title/Abstract] OR \"Regeneration\"[Title/Abstract] OR \"regenerative medicine\"[Title/Abstract]) AND (\"single-cell\"[Title/Abstract] OR \"single-cell\"[Title/Abstract] OR \"spatial transcriptom*\"[Title/Abstract]) AND (\"perturbation*\"[Title/Abstract] OR \"lineage tracing\"[Title/Abstract] OR \"regulatory network\"[Title/Abstract] OR \"cell fate\"[Title/Abstract] OR \"time course\"[Title/Abstract] OR \"longitudinal\"[Title/Abstract]) AND 1900/01/01:2026/10/26[Date - Publication]",
+    "warning": null
+  },
+  {
+    "query_id": "EP01",
+    "database": "Europe PMC",
+    "count": 584,
+    "retrieved": 584,
+    "query": "(TITLE_ABS:\"virtual cell\" OR TITLE_ABS:\"virtual cells\" OR TITLE_ABS:\"single-cell foundation model\" OR TITLE_ABS:\"cellular foundation model\" OR TITLE_ABS:\"cell language model\" OR TITLE_ABS:Geneformer OR TITLE_ABS:scGPT OR TITLE_ABS:CellPLM OR TITLE_ABS:CellOS OR TITLE_ABS:Squidiff) AND FIRST_PDATE:[1900-01-01 TO 2026-10-26]"
+  },
+  {
+    "query_id": "EP02",
+    "database": "Europe PMC",
+    "count": 347,
+    "retrieved": 347,
+    "query": "(TITLE_ABS:\"single-cell\" OR TITLE_ABS:\"cell state\") AND (TITLE_ABS:perturbation OR TITLE_ABS:\"drug response\" OR TITLE_ABS:reprogramming) AND (TITLE_ABS:prediction OR TITLE_ABS:predicting OR TITLE_ABS:generative OR TITLE_ABS:\"deep learning\") AND SRC:PPR AND FIRST_PDATE:[1900-01-01 TO 2026-10-26]"
+  }
+]

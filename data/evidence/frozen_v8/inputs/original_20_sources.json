@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C01",
+    "model": "GET",
+    "doi": "10.1038/s41586-024-08391-z",
+    "source_text_sha256": "1701546a0fcba863b350fad9ff460be50f5b0037ed4e08eea8230af6660158d5"
+  },
+  {
+    "id": "C02",
+    "model": "scGPT",
+    "doi": "10.1038/s41592-024-02201-0",
+    "source_text_sha256": "6ce34229340735db24a229e2fda4a832fcbb81cdbdcc7f168bd8a8486fd9c085"
+  },
+  {
+    "id": "C03",
+    "model": "AlphaGenome",
+    "doi": "10.1038/s41586-025-10014-0",
+    "source_text_sha256": "6bc142a09b5cc3abb109e0554cdb02b3c21bce06372a579d20f3fe5b35642925"
+  },
+  {
+    "id": "C04",
+    "model": "scPRINT",
+    "doi": "10.1038/s41467-025-58699-1",
+    "source_text_sha256": "e37edf67810e867e197c567ab99353785fd0137e3696f3c4d1b3ccfa204d2b08"
+  },
+  {
+    "id": "C05",
+    "model": "scTranslator",
+    "doi": "10.1038/s41551-025-01528-z",
+    "source_text_sha256": "ffe135e4fcc3387bfced4a90c53614e403fbf7a0448639a0ded5be974a0cd6d6"
+  },
+  {
+    "id": "C06",
+    "model": "State",
+    "doi": "10.1016/j.cell.2026.07.052",
+    "source_text_sha256": "69474b7e05e8c1163d00bea42e0df09754482796199006f7c9a982dac9107191"
+  },
+  {
+    "id": "C07",
+    "model": "dbDiffusion",
+    "doi": "10.1073/pnas.2525268122",
+    "source_text_sha256": "10ef200860f2414487a04d776459d73ca5dbb9cd0d2e4be56e97be871d9a2347"
+  },
+  {
+    "id": "C08",
+    "model": "GEARS",
+    "doi": "10.1038/s41587-023-01905-6",
+    "source_text_sha256": "75cfab7c4c80d0a07216f79a52ea99f7e2fa805b053781919e18fcf0f1d4ba1a"
+  },
+  {
+    "id": "C09",
+    "model": "PRnet",
+    "doi": "10.1038/s41467-024-53457-1",
+    "source_text_sha256": "96db29ddaddb38915f6b84641fb960f0a22b94eb7d69bd9e59ac33772c1f021b"
+  },
+  {
+    "id": "C10",
+    "model": "scTenifoldKnk",
+    "doi": "10.1016/j.patter.2022.100434",
+    "source_text_sha256": "3e6f82f203eee537ca95d6e37db19633cc7b525f4cab88b50002337234aef0a4"
+  },
+  {
+    "id": "C11",
+    "model": "scGen",
+    "doi": "10.1038/s41592-019-0494-8",
+    "source_text_sha256": "2167e009b57c14077aa2fb7609e71fd86e3d2b21fbec4feecd268fc579aaa9ac"
+  },
+  {
+    "id": "C12",
+    "model": "GenKI",
+    "doi": "10.1093/nar/gkad450",
+    "source_text_sha256": "d67dac2ab9e6d9cc327d19b900741270cea40f572be98030f5ddf63bc1c2a983"
+  },
+  {
+    "id": "C13",
+    "model": "Celcomen",
+    "doi": "10.1038/s41467-026-69856-5",
+    "source_text_sha256": "a3dd3afdc4dc8ac528467404366896f84f70a06ff31126ee597443640845400a"
+  },
+  {
+    "id": "C14",
+    "model": "Nicheformer",
+    "doi": "10.1038/s41592-025-02814-z",
+    "source_text_sha256": "091c7addc133f4b9a6dd1a9d1677dc59542e55b528132c80f44a23c50254e34a"
+  },
+  {
+    "id": "C15",
+    "model": "PULSAR",
+    "doi": "10.1101/2025.11.24.685470",
+    "source_text_sha256": "f6fd37607692dde18c537c78e1be62375b78656dfad3265d2b6ecab1a4ffb082"
+  },
+  {
+    "id": "C16",
+    "model": "Tahoe-100M",
+    "doi": "10.1016/j.cell.2026.08.035",
+    "source_text_sha256": "ee7e5d681cce676d0e9ba5a73f3b2ba7afcf9a4c3367abe3b04f84ef007d1ed1"
+  },
+  {
+    "id": "C17",
+    "model": "IMPA",
+    "doi": "10.1038/s41467-024-55707-8",
+    "source_text_sha256": "7082afe7a6b7fb39e393cb658160c912696d013fd94608850e947c695307b472"
+  },
+  {
+    "id": "C18",
+    "model": "Squidiff",
+    "doi": "10.1038/s41592-025-02877-y",
+    "source_text_sha256": "1bf769e57206b1d502fb831caa9d92c71fd7bdd0c46a41caa2d5fa0cf17b0c6a"
+  },
+  {
+    "id": "C19",
+    "model": "CellOracle",
+    "doi": "10.1038/s41586-022-05688-9",
+    "source_text_sha256": "741b1e1abbf21f6cfa05a5ccf2c6b8163543bee8dcfdfa92d229c932db887adb"
+  },
+  {
+    "id": "C20",
+    "model": "scPerturBench",
+    "doi": "10.1038/s41592-025-02980-0",
+    "source_text_sha256": "99e28321bc64daf2cbde97f6a4ccab66157a8d8c8f81a327433c84f2be36606c"
+  }
+]

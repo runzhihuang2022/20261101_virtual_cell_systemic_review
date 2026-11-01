@@ -1,0 +1,12 @@
+﻿Study,Cellular input,Queried output,Validation,Evidence judgment
+scGen [19],Control and perturbed transcriptomes,Latent response transfer,Held-out stimulated cell types; simple baselines,Tests transfer across cellular contexts
+CellOracle [20],Expression and regulatory priors,TF-dependent state transitions,Known perturbations and developmental experiments,Evaluate trajectory and phenotype separately
+Geneformer [27],Rank-encoded cellular expression,Perturbation-related state and network changes,Transfer tasks and cardiomyocyte experiments,Assay-specific support for target selection
+GEARS [21],Perturb-seq and gene relationships,Single and combined genetic response,Held-out target and combination tests,Specify number of unseen targets
+CPA [98],"Expression, dose and covariates",Conditional expression response,Held-out dose/covariate combinations,Combination transfer depends on observed components
+CellOT [99],Control and treated populations,Distributional treatment response,Unseen context tests and distribution metrics,Population mapping with explicit target context
+scTenifoldKnk [86],Wild-type cellular expression,Network disruption after outgoing-edge removal,Knockout signature comparison,Network distance is the output
+"WOT and PRESCIENT [143, 144]",Time-resolved expression,State/fate evolution,Withheld intermediate timepoints,Temporal interpolation
+Squidiff [84],Conditioned expression,Cellular response under perturbation,Vascular organoid irradiation context,Injury-associated response evaluation
+scPerturBench [145],Multiple perturbation datasets,Comparative predictive performance,27 methods; 29 datasets; six metrics,Rank models by task and metric
+"Calibration and baseline studies [146, 148]",Shared perturbation benchmarks,Unseen perturbation response,Calibrated metrics and simple alternatives,Test improvement over an appropriate null

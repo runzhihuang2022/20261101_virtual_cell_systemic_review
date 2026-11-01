@@ -1,0 +1,83 @@
+[
+  {
+    "preprint_id": "R0541",
+    "journal_id": "R0733",
+    "model": "scGen",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/478503",
+    "journal_doi": "10.1038/s41592-019-0494-8"
+  },
+  {
+    "preprint_id": "R0762",
+    "journal_id": "R1535",
+    "model": "CellOracle",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2020.02.17.947416",
+    "journal_doi": "10.1038/s41586-022-05688-9"
+  },
+  {
+    "preprint_id": "R1017",
+    "journal_id": "R1677",
+    "model": "CPA",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2021.04.14.439903",
+    "journal_doi": "10.15252/msb.202211517"
+  },
+  {
+    "preprint_id": "R1016",
+    "journal_id": "R1189",
+    "model": "CoSpar",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.21203/rs.3.rs-502709/v1",
+    "journal_doi": "10.1038/s41587-022-01209-1"
+  },
+  {
+    "preprint_id": "R1238",
+    "journal_id": "R1988",
+    "model": "Fatecode",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2022.12.16.520772",
+    "journal_doi": "10.1016/j.crmeth.2024.100819"
+  },
+  {
+    "preprint_id": "R1242",
+    "journal_id": "R2138",
+    "model": "GEARS",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2022.07.12.499735",
+    "journal_doi": "10.1038/s41587-023-01905-6"
+  },
+  {
+    "preprint_id": "R0814",
+    "journal_id": "R1075",
+    "model": "PseudocellTracer",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2020.06.26.173179",
+    "journal_doi": "10.1371/journal.pcbi.1008094"
+  },
+  {
+    "preprint_id": "R1765",
+    "journal_id": "R3071",
+    "model": "scVAEDer",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2023.04.13.536789",
+    "journal_doi": "10.1186/s13059-025-03519-4"
+  },
+  {
+    "preprint_id": "R1210",
+    "journal_id": "R1529",
+    "model": "cardiac recovery",
+    "status": "AI bibliographic linkage; author verification pending",
+    "basis": "Model identity, title and first-author comparison",
+    "preprint_doi": "10.1101/2022.09.11.507463",
+    "journal_doi": "10.1038/s44161-023-00260-8"
+  }
+]

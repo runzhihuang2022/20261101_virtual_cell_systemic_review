@@ -1,0 +1,2025 @@
+[
+  {
+    "record_id": "R0129",
+    "pmid": "19188257",
+    "date": "2009-02-02",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0156",
+    "pmid": "20585619",
+    "date": "2010-06-24",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0202",
+    "pmid": "22723838",
+    "date": "2012-06-18",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0273",
+    "pmid": "24439388",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0280",
+    "pmid": "25122086",
+    "date": "2014-08-14",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0453",
+    "pmid": "28296635",
+    "date": "2017-03-15",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0521",
+    "pmid": "29848620",
+    "date": "2018-07-02",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0632",
+    "pmid": "30850846",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0690",
+    "pmid": "30712874",
+    "date": "2019-01-31",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0733",
+    "pmid": "31363220",
+    "date": "2019-07-29",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0825",
+    "pmid": "32128066",
+    "date": "2020-02-15",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0992",
+    "pmid": "34050150",
+    "date": "2021-05-28",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1066",
+    "pmid": "34353329",
+    "date": "2021-08-05",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1209",
+    "pmid": "36449617",
+    "date": "2022-11-30",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1258",
+    "pmid": "35213533",
+    "date": "2022-02-25",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1315",
+    "pmid": "35725577",
+    "date": "2022-06-20",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1343",
+    "pmid": "35213530",
+    "date": "2022-02-25",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1425",
+    "pmid": "35510185",
+    "date": "2022-02-01",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1469",
+    "pmid": "37326971",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1535",
+    "pmid": "36755098",
+    "date": "2023-02-08",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1565",
+    "pmid": "37246643",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1568",
+    "pmid": "37602218",
+    "date": "2023-08-11",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1579",
+    "pmid": "37760098",
+    "date": "2023-08-23",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1619",
+    "pmid": "37253722",
+    "date": "2023-05-31",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1620",
+    "pmid": "37770709",
+    "date": "2023-09-28",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1677",
+    "pmid": "37154091",
+    "date": "2023-05-08",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1701",
+    "pmid": "37443338",
+    "date": "2023-07-13",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1781",
+    "pmid": "37258680",
+    "date": "2023-05-31",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1803",
+    "pmid": "38291052",
+    "date": "2024-01-30",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1869",
+    "pmid": "39584702",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1876",
+    "pmid": "39823522",
+    "date": "2025-01-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1880",
+    "pmid": "38940173",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1882",
+    "pmid": "39375864",
+    "date": "2024-10-07",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1894",
+    "pmid": "38437548",
+    "date": "2024-03-04",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1972",
+    "pmid": "39289870",
+    "date": "2024-10-09",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1987",
+    "pmid": "39177093",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1995",
+    "pmid": "38744843",
+    "date": "2024-05-14",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2091",
+    "pmid": "39677694",
+    "date": "2024-12-08",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2137",
+    "pmid": "38940153",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2138",
+    "pmid": "37592036",
+    "date": "2023-08-17",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2140",
+    "pmid": "39462106",
+    "date": "2024-10-26",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2210",
+    "pmid": "38782963",
+    "date": "2024-05-23",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2225",
+    "pmid": "38940127",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2232",
+    "pmid": "39150785",
+    "date": "2024-08-16",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2245",
+    "pmid": "39075536",
+    "date": "2024-07-29",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2252",
+    "pmid": "39230694",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2253",
+    "pmid": "38625746",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2383",
+    "pmid": "41040483",
+    "date": "2025-06-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2386",
+    "pmid": "40393991",
+    "date": "2025-05-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2387",
+    "pmid": "41044372",
+    "date": "2025-10-03",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2427",
+    "pmid": "40178283",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2430",
+    "pmid": "41469543",
+    "date": "2025-12-30",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2435",
+    "pmid": "41006334",
+    "date": "2025-09-26",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2440",
+    "pmid": "41643202",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2534",
+    "pmid": "40662778",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2567",
+    "pmid": "41256563",
+    "date": "2025-10-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2584",
+    "pmid": "41256408",
+    "date": "2025-10-03",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2680",
+    "pmid": "41514902",
+    "date": "2025-12-29",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2756",
+    "pmid": "40106407",
+    "date": "2025-03-19",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2821",
+    "pmid": "40640612",
+    "date": "2025-07-10",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2830",
+    "pmid": "39779675",
+    "date": "2025-01-08",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2936",
+    "pmid": "40671942",
+    "date": "2025-07-07",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3034",
+    "pmid": "41427394",
+    "date": "2025-12-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3060",
+    "pmid": "40894586",
+    "date": "2025-08-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3065",
+    "pmid": "40868397",
+    "date": "2025-08-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3068",
+    "pmid": "39486785",
+    "date": "2024-10-31",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3071",
+    "pmid": "40119479",
+    "date": "2025-03-21",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3100",
+    "pmid": "42510856",
+    "date": "2026-07-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3122",
+    "pmid": "42167225",
+    "date": "2026-05-21",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3179",
+    "pmid": "42741841",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3362",
+    "pmid": "42577751",
+    "date": "2026-08-10",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3381",
+    "pmid": "42837408",
+    "date": "2026-10-06",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3392",
+    "pmid": "41851134",
+    "date": "2026-03-18",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3403",
+    "pmid": "41498638",
+    "date": "2026-01-07",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3497",
+    "pmid": "42704667",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3543",
+    "pmid": "42005385",
+    "date": "2026-02-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3582",
+    "pmid": "42865067",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3618",
+    "pmid": "42378442",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3834",
+    "pmid": "41839876",
+    "date": "2026-03-16",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4061",
+    "pmid": "42715336",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4240",
+    "pmid": "41811907",
+    "date": "2026-03-11",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4254",
+    "pmid": "42249125",
+    "date": "2026-06-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4321",
+    "pmid": "42818971",
+    "date": "2026-09-10",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4354",
+    "pmid": "42412811",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R4378",
+    "pmid": "42589098",
+    "date": "2026-07-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4384",
+    "pmid": "42667121",
+    "date": "2026-08-29",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4390",
+    "pmid": "42327015",
+    "date": "2026-06-14",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4391",
+    "pmid": "42094425",
+    "date": "2026-09-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4438",
+    "pmid": "42086551",
+    "date": "2026-05-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4495",
+    "pmid": "41350457",
+    "date": "2025-12-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4687",
+    "pmid": "41959091",
+    "date": "2026-04-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4805",
+    "pmid": "41984780",
+    "date": "2026-04-15",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4857",
+    "pmid": "41889931",
+    "date": "2026-03-16",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4860",
+    "pmid": "42745547",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R4865",
+    "pmid": "42754836",
+    "date": "2026-08-25",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4867",
+    "pmid": "42804716",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1978",
+    "pmid": "41869863",
+    "date": "2026-03-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2301",
+    "pmid": "40889115",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2346",
+    "pmid": "40269681",
+    "date": "2025-04-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2459",
+    "pmid": "40759747",
+    "date": "2025-08-04",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3041",
+    "pmid": "41465115",
+    "date": "2025-12-02",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3115",
+    "pmid": "42239045",
+    "date": "2026-05-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3174",
+    "pmid": "42626084",
+    "date": "2026-08-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3175",
+    "pmid": "42715312",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3632",
+    "pmid": "42249309",
+    "date": "2026-06-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4625",
+    "pmid": "42182243",
+    "date": "2026-05-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4643",
+    "pmid": "40854979",
+    "date": "2025-08-25",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4649",
+    "pmid": "42482180",
+    "date": "2026-07-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4859",
+    "pmid": "42121287",
+    "date": "2026-05-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1319",
+    "pmid": "35181609",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R1566",
+    "pmid": "36584685",
+    "date": "2022-12-29",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2457",
+    "pmid": "41459534",
+    "date": "2025-12-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2476",
+    "pmid": "41465404",
+    "date": "2025-12-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3482",
+    "pmid": "42510645",
+    "date": "2026-07-08",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3722",
+    "pmid": "42627902",
+    "date": "2026-08-21",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3818",
+    "pmid": "42836580",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3827",
+    "pmid": "42256531",
+    "date": "2026-05-28",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3847",
+    "pmid": "42074165",
+    "date": "2026-04-15",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3958",
+    "pmid": "42353169",
+    "date": "2026-06-16",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4274",
+    "pmid": "42631664",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R4317",
+    "pmid": "41790620",
+    "date": "2026-03-06",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4596",
+    "pmid": "42866038",
+    "date": "2026-10-07",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0021",
+    "pmid": "10579714",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0030",
+    "pmid": "11381088",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0055",
+    "pmid": "15090651",
+    "date": "2004-04-16",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0069",
+    "pmid": "16169982",
+    "date": "2005-09-16",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0080",
+    "pmid": "16861274",
+    "date": "2006-07-21",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0086",
+    "pmid": "17907794",
+    "date": "2007-07-26",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0101",
+    "pmid": "17395623",
+    "date": "2007-03-29",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0106",
+    "pmid": "19045831",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0153",
+    "pmid": "20623665",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0193",
+    "pmid": "21340454",
+    "date": "2011-02-22",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0196",
+    "pmid": "22817898",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0214",
+    "pmid": "22613834",
+    "date": "2012-05-21",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0226",
+    "pmid": "24185838",
+    "date": "2013-11-03",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0240",
+    "pmid": "24364041",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0263",
+    "pmid": "25416955",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0353",
+    "pmid": "26020786",
+    "date": "2015-05-28",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0358",
+    "pmid": "26333594",
+    "date": "2015-08-30",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0390",
+    "pmid": "27056884",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0414",
+    "pmid": "27294303",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R0460",
+    "pmid": "28663056",
+    "date": "2017-06-27",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0506",
+    "pmid": "28911986",
+    "date": "2017-09-11",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0532",
+    "pmid": "30248575",
+    "date": "2018-09-12",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0598",
+    "pmid": "30899000",
+    "date": "2019-03-21",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0783",
+    "pmid": "32047145",
+    "date": "2020-02-11",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0897",
+    "pmid": "32649657",
+    "date": "2020-07-10",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R0905",
+    "pmid": "33430483",
+    "date": "2021-01-07",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1412",
+    "pmid": "35145105",
+    "date": "2022-02-10",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1075",
+    "pmid": "33939691",
+    "date": "2021-05-03",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1182",
+    "pmid": "35027767",
+    "date": "2022-01-13",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1189",
+    "pmid": "35190690",
+    "date": "2022-02-21",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1294",
+    "pmid": "35108499",
+    "date": "2022-02-01",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1422",
+    "pmid": "35300460",
+    "date": "2022-03-15",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1950",
+    "pmid": "38225466",
+    "date": "2024-01-15",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1988",
+    "pmid": "38986613",
+    "date": "2024-07-09",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2055",
+    "pmid": "38844628",
+    "date": "2024-06-06",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2117",
+    "pmid": "39570626",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2191",
+    "pmid": "39005347",
+    "date": "2024-07-05",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2243",
+    "pmid": "40551620",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2247",
+    "pmid": "",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2248",
+    "pmid": "38409223",
+    "date": "2024-02-26",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2270",
+    "pmid": "40542107",
+    "date": "2025-06-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2299",
+    "pmid": "40662824",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2417",
+    "pmid": "39537342",
+    "date": "2024-11-13",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2507",
+    "pmid": "40999099",
+    "date": "2025-09-25",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2681",
+    "pmid": "41628222",
+    "date": "2026-02-02",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2834",
+    "pmid": "41452988",
+    "date": "2025-12-26",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2880",
+    "pmid": "41372157",
+    "date": "2025-12-10",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3178",
+    "pmid": "42823974",
+    "date": "2026-09-18",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3259",
+    "pmid": "42717098",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3347",
+    "pmid": "41822158",
+    "date": "2026-03-02",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3386",
+    "pmid": "42918850",
+    "date": "2026-10-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3400",
+    "pmid": "42559559",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3495",
+    "pmid": "42127893",
+    "date": "2026-05-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3530",
+    "pmid": "42907533",
+    "date": "2026-10-21",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3535",
+    "pmid": "41850287",
+    "date": "2026-03-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3568",
+    "pmid": "42092184",
+    "date": "2026-05-06",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3580",
+    "pmid": "42647569",
+    "date": "2026-08-26",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3685",
+    "pmid": "42487398",
+    "date": "2026-07-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3705",
+    "pmid": "42539229",
+    "date": "2026-09-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4017",
+    "pmid": "42239294",
+    "date": "2026-05-18",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4058",
+    "pmid": "42848419",
+    "date": "2026-10-08",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4092",
+    "pmid": "",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R4387",
+    "pmid": "41044387",
+    "date": "2025-10-03",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4489",
+    "pmid": "41184554",
+    "date": "2025-11-03",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4602",
+    "pmid": "42039614",
+    "date": "2026-04-19",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4782",
+    "pmid": "42067667",
+    "date": "2026-05-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4791",
+    "pmid": "42635620",
+    "date": "2026-08-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4796",
+    "pmid": "42862872",
+    "date": "2026-10-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4885",
+    "pmid": "42502841",
+    "date": "2026-07-16",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3127",
+    "pmid": "",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3312",
+    "pmid": "41381899",
+    "date": "2025-12-11",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3398",
+    "pmid": "42780116",
+    "date": "2026-09-15",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3533",
+    "pmid": "42823510",
+    "date": "2026-10-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1127",
+    "pmid": "34977150",
+    "date": "2021-12-17",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1151",
+    "pmid": "35729113",
+    "date": "2022-06-21",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1160",
+    "pmid": "35986058",
+    "date": "2022-08-19",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1356",
+    "pmid": "35698129",
+    "date": "2022-06-14",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1434",
+    "pmid": "38049515",
+    "date": "2023-12-04",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1467",
+    "pmid": "37353932",
+    "date": "2023-06-23",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1541",
+    "pmid": "37621774",
+    "date": "2023-08-09",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1792",
+    "pmid": "36332630",
+    "date": "2022-11-03",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1797",
+    "pmid": "37327241",
+    "date": "2023-06-16",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1798",
+    "pmid": "37224536",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2156",
+    "pmid": "39028527",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2376",
+    "pmid": "40832347",
+    "date": "2025-08-15",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2723",
+    "pmid": "40968384",
+    "date": "2025-09-18",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2877",
+    "pmid": "41158874",
+    "date": "2025-10-13",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3289",
+    "pmid": "41427637",
+    "date": "2025-12-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3420",
+    "pmid": "41504070",
+    "date": "2026-01-08",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4816",
+    "pmid": "41900933",
+    "date": "2026-03-04",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1162",
+    "pmid": "36352408",
+    "date": "2022-11-09",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R1824",
+    "pmid": "39567793",
+    "date": "2024-11-20",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2221",
+    "pmid": "37982461",
+    "date": "2024-01-31",
+    "temporal_stratum": "before_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2276",
+    "pmid": "41607803",
+    "date": "2026-01-13",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2288",
+    "pmid": "40596066",
+    "date": "2025-07-02",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2297",
+    "pmid": "41012606",
+    "date": "2025-08-28",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2390",
+    "pmid": "40502733",
+    "date": "2025-05-29",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2397",
+    "pmid": "42088368",
+    "date": "2026-04-10",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2477",
+    "pmid": "40887856",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R2663",
+    "pmid": "40894159",
+    "date": "2025-08-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2933",
+    "pmid": "40950147",
+    "date": "2025-09-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R2958",
+    "pmid": "41135953",
+    "date": "2025-10-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3090",
+    "pmid": "42801171",
+    "date": "2026-09-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3102",
+    "pmid": "42553741",
+    "date": "2026-07-31",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3131",
+    "pmid": "42035563",
+    "date": "2026-04-25",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3138",
+    "pmid": "42782481",
+    "date": "2026-09-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3144",
+    "pmid": "42623410",
+    "date": "2026-08-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3189",
+    "pmid": "42343374",
+    "date": "2026-06-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3196",
+    "pmid": "42738883",
+    "date": "2026-09-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3242",
+    "pmid": "42910398",
+    "date": "2026-10-12",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3302",
+    "pmid": "42909010",
+    "date": "2026-10-07",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3356",
+    "pmid": "42192776",
+    "date": "2026-04-25",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3393",
+    "pmid": "42884023",
+    "date": "2026-09-30",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3456",
+    "pmid": "42910171",
+    "date": "2026-10-21",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3483",
+    "pmid": "42796756",
+    "date": "2026-09-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3514",
+    "pmid": "42737833",
+    "date": "2026-09-06",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3515",
+    "pmid": "42769759",
+    "date": "2026-09-17",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3565",
+    "pmid": "41732268",
+    "date": "2026-01-29",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3594",
+    "pmid": "42901979",
+    "date": "2026-10-20",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3630",
+    "pmid": "42031825",
+    "date": "2026-04-25",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3642",
+    "pmid": "42794453",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3662",
+    "pmid": "42793279",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3730",
+    "pmid": "42780618",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3742",
+    "pmid": "42112375",
+    "date": "2026-04-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3749",
+    "pmid": "42511525",
+    "date": "2026-07-10",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3798",
+    "pmid": "42780662",
+    "date": "2026-09-09",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3819",
+    "pmid": "41027406",
+    "date": "2025-12-26",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3848",
+    "pmid": "41898604",
+    "date": "2026-03-18",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3876",
+    "pmid": "42740387",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3877",
+    "pmid": "42747258",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3879",
+    "pmid": "42649570",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3883",
+    "pmid": "42698055",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3897",
+    "pmid": "42465723",
+    "date": "2026-07-02",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3909",
+    "pmid": "42851348",
+    "date": "2026-09-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3926",
+    "pmid": "42211301",
+    "date": "2026-05-13",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3938",
+    "pmid": "42471526",
+    "date": "2026-07-19",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3960",
+    "pmid": "42652122",
+    "date": "2026-08-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3961",
+    "pmid": "42164570",
+    "date": "2026-05-15",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3963",
+    "pmid": "42704704",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3977",
+    "pmid": "",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R3987",
+    "pmid": "42631563",
+    "date": "2026-08-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R3996",
+    "pmid": "42444906",
+    "date": "2026-06-23",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4004",
+    "pmid": "42756293",
+    "date": "2026-09-03",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4032",
+    "pmid": "41694598",
+    "date": "2026-01-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4056",
+    "pmid": "41617928",
+    "date": "2026-01-30",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4123",
+    "pmid": "42510881",
+    "date": "2026-07-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4203",
+    "pmid": "42305491",
+    "date": "2026-04-30",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4204",
+    "pmid": "42305533",
+    "date": "2026-06-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4236",
+    "pmid": "41727317",
+    "date": "2026-02-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4253",
+    "pmid": "42793291",
+    "date": "2026-09-13",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4327",
+    "pmid": "42110212",
+    "date": "2026-05-07",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4328",
+    "pmid": "42812728",
+    "date": "2026-09-29",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4337",
+    "pmid": "42247075",
+    "date": "2026-06-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4350",
+    "pmid": "42820044",
+    "date": "2026-09-30",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4425",
+    "pmid": "42519321",
+    "date": "2026-07-06",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4474",
+    "pmid": "42613625",
+    "date": "2026-08-03",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4476",
+    "pmid": "42445523",
+    "date": "2026-07-13",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4485",
+    "pmid": "42123320",
+    "date": "2026-04-22",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4497",
+    "pmid": "42865916",
+    "date": "2026-09-28",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4534",
+    "pmid": "41985508",
+    "date": "2026-04-15",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4555",
+    "pmid": "42923340",
+    "date": "2026-10-08",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4611",
+    "pmid": "",
+    "date": "",
+    "temporal_stratum": "2024_exact_date_pending",
+    "basis": "exact electronic date unresolved"
+  },
+  {
+    "record_id": "R4663",
+    "pmid": "42436685",
+    "date": "2026-06-01",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4665",
+    "pmid": "42661780",
+    "date": "2026-08-13",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4749",
+    "pmid": "42079057",
+    "date": "2026-04-24",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4824",
+    "pmid": "42662567",
+    "date": "2026-08-27",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  },
+  {
+    "record_id": "R4880",
+    "pmid": "41491011",
+    "date": "2026-01-05",
+    "temporal_stratum": "on_or_after_2024_12_12",
+    "basis": "PubMed ArticleDate"
+  }
+]

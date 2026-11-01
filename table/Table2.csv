@@ -1,0 +1,11 @@
+﻿Tissue and reports,Cellular system,Model operation,Observed comparison,Synthesis
+"Skin [180, 181]",Human DFU; diabetic mouse wounds,CellOracle TF perturbation,Healing-state direction; comparison with prior knockout data,Direct wound applications; mainly cellular-state evidence
+"Lung [337, 351]",Injury/transitional AT2 cells; influenza immune cells,IGFBP2 network perturbation; scGPT response,Disease-state comparison; NanoString comparison,Separate fibrosis hypotheses from infection response tests
+"Kidney [89, 352]",Proximal tubule and myeloid contexts,SLC22A5/CPT2 or IRF8 perturbation,Network/pathway comparison,Cell-specific metabolic and inflammatory hypotheses
+"Heart [27, 327]",Cardiomyocyte and endothelial contexts,Geneformer targets; S100A8 virtual knockout,Cellular assays; myocardial I/R experiments,Specify target perturbation and treatment endpoint
+"Liver [331, 332]",Cirrhotic macrophage/endothelial states,Regulatory-network perturbation,Disease profiles and inferred network response,Candidate programmes for fibrosis experiments
+"Intestine [338, 339]",UC macrophages and Tregs,CCL3/CCL4/JUNB or RNF213 perturbation,Network outputs and mucosal observations,Candidate inflammatory-control mechanisms
+Muscle [90],Wild-type muscle/satellite-cell expression,Chodl virtual knockout,Conditional knockout; injury/regeneration assays,Links molecular hypotheses to a regeneration phenotype
+"Neural tissue [304, 305, 306]","Astrocytes, pericytes and developmental neurons",Network/TF perturbations,Disease-context or lineage comparison,Cellular hypotheses and developmental reference
+"Bone marrow [210, 213]",Aged or irradiated HSPCs,Pbx1 and protective-TF perturbation,Transplantation or progenitor assays,Lineage output and injury response are distinct endpoints
+"Eye [89, 353]",Retinal Müller glia; peripheral immune cells,SLC22A5/CPT2 or FLNA perturbation,Network predictions; metabolomic/disease association,Retinal-cell simulation and systemic association kept separate

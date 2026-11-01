@@ -1,0 +1,48 @@
+{
+  "raw_records": 5517,
+  "frozen_representatives": 4885,
+  "candidate_reports_requested": 1029,
+  "parsed_reports": 598,
+  "usable_body_over_500": 594,
+  "reports_without_parsed_body": 431,
+  "targeted_report_decisions": 598,
+  "report_decision_counts": {
+    "E4": 19,
+    "M": 138,
+    "E5": 76,
+    "E3": 134,
+    "U1": 45,
+    "B": 17,
+    "A": 61,
+    "H": 44,
+    "E2": 19,
+    "E1": 14,
+    "C": 29,
+    "E6": 1,
+    "E8": 1
+  },
+  "validation_profiles": {
+    "V1": 71,
+    "V2": 67,
+    "V2_temporal_interpolation": 3,
+    "V3": 7,
+    "V2_temporal": 4,
+    "B": 17,
+    "V0": 41,
+    "historical": 44,
+    "context": 29,
+    "NE": 3,
+    "V3_linked": 3
+  },
+  "source_identity_counts": {
+    "doi_metadata_match": 592,
+    "metadata_not_resolved": 3,
+    "title_metadata_match": 3
+  },
+  "new_version_links": 9,
+  "modern_retained_for_appraisal": 216,
+  "independently_verified_high_quality_studies": 0,
+  "quality_target_status": "not established",
+  "human_independent_review": "pending",
+  "complete_systematic_review": false
+}
