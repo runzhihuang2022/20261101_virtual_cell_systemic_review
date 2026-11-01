@@ -12,7 +12,7 @@ if args.target=='all':
   with (out/(name+'.csv')).open('w',encoding='utf-8-sig',newline='') as f:
    w=csv.DictWriter(f,fieldnames=keys);w.writeheader()
    for row in data:w.writerow({k:json.dumps(v,ensure_ascii=False) if isinstance(v,(dict,list)) else v for k,v in row.items()})
- refs=json.loads((r/'data/evidence/references_v9.json').read_text(encoding='utf-8'))
+ refs=json.loads((r/'data/evidence/references_v11.json').read_text(encoding='utf-8'))
  (out/'reference_index.txt').write_text('\n'.join(x['formatted'] for x in refs),encoding='utf-8')
  for p in (r/'table').glob('*.csv'):shutil.copy2(p,out/p.name)
 for f in json.loads((r/'config/figures.json').read_text(encoding='utf-8')):

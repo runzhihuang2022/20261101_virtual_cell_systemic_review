@@ -1,0 +1,29 @@
+{
+  "verified_on": "2026-11-01",
+  "journal_guidelines": "https://academic.oup.com/burnstrauma/pages/General_Instructions",
+  "reference_article": "https://doi.org/10.1093/burnst/tkag019",
+  "required_review_sections": [
+    "Background",
+    "Review",
+    "Conclusions"
+  ],
+  "typography_is_submission_design_not_journal_mandated": true,
+  "level_1": {
+    "font": "Arial",
+    "points": 14,
+    "bold": true
+  },
+  "level_2": {
+    "font": "Arial",
+    "points": 12,
+    "bold": true
+  },
+  "level_3": {
+    "font": "Arial",
+    "points": 11,
+    "bold": true,
+    "italic": true
+  },
+  "methods_location": "Literature search and evidence assessment is a level-2 subsection within Background.",
+  "review_topics": "Original nine topics and their nested subsections retain their wording and order under Review."
+}
